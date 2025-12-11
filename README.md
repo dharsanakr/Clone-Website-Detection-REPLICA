@@ -22,7 +22,7 @@ Replica does **not** allow manual URL entry — it detects URLs automatically th
 ### 🔍 Automatic URL Detection  
 The browser extension captures the URL automatically whenever the user visits a website.
 
-### 🧠 Machine Learning Detection (Not AI-powered)  
+### 🧠 Machine Learning Detection   
 Replica uses an **XGBoost-based classifier** trained on phishing + legitimate URLs.
 
 ### 🛡 Real-Time Classification  
