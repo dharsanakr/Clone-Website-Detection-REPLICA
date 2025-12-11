@@ -1,0 +1,9 @@
+flask
+pymongo
+xgboost
+scikit-learn
+numpy
+pandas
+beautifulsoup4
+requests
+python-dotenv
