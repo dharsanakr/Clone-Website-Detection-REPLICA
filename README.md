@@ -111,15 +111,6 @@ python app.py
 
 ### **Step 3 — Load Browser Extension**
 Chrome → Extensions → Developer Mode → **Load Unpacked** → select `extension/` folder.
-
----
-
-## 📸 Screenshots (optional)  
-You can add later:
-- Popup UI  
-- Redirect screen  
-- Terminal logs  
-
 ---
 
 ## 👨‍💻 Developer  
